@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "S3Uploader": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7219",
+      "launchBrowser": false
+    }
+  }
+}
